@@ -34,7 +34,6 @@ class ThirdViewController: UIViewController {
             redCircle = UIView(frame: CGRect(x: 50, y: 270, width: 300, height: 300))
             redCircle.layer.cornerRadius = redCircle.frame.width/2
             redCircle.backgroundColor = .red
-            //redCircle.clipsToBounds = true
             self.view.addSubview(redCircle)
             
         }
@@ -57,3 +56,4 @@ class ThirdViewController: UIViewController {
     
     
 }
+// my project
