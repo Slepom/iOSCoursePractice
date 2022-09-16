@@ -1,0 +1,49 @@
+{
+    "count": 2,
+    "companyDescription": "It-retail",
+    "listOfData": [
+        {
+            "name": "iPhone",
+            "modelNumber": "13 pro max",
+            "countries": ["Israel", "Ukraine"],
+            "year": 2022,
+            "price": {
+                "regions": [
+                    {
+                        "name": "retail",
+                        "price": 999
+      
+                    }
+                ]
+            
+            }
+            
+
+        },
+        {
+            "name": "Samsung",
+            "modelNumber": "note 15",
+            "countries": ["USA", "GB"],
+            "year": 2022,
+            "price": {
+                "regions": [
+                    {
+                        "name": "retail",
+                        "price": 899
+      
+                    }
+                ]
+            
+            }
+            
+
+        }
+        
+        
+        
+        
+        
+    ]
+    
+}
+
