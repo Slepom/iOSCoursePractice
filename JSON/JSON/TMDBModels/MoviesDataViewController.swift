@@ -31,20 +31,6 @@ class MoviesDataViewController: UIViewController {
         
         
         
-//        request.responseJSON { recievedData in
-//            let decoder = JSONDecoder()
-//            guard let responseData = recievedData.data else { return }
-//
-//
-//
-//            do {
-//                let data = try decoder.decode(TMDBRresponce.self, from: responseData)
-//                print(data)
-//            } catch{
-//
-//            }
-//
-//        }
     }
     
 extension MoviesDataViewController: UITableViewDataSource{
